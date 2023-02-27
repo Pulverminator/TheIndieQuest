@@ -1,0 +1,16 @@
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\bin\Debug\net5.0\Bowling frame revised.exe
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\bin\Debug\net5.0\Bowling frame revised.deps.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\bin\Debug\net5.0\Bowling frame revised.runtimeconfig.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\bin\Debug\net5.0\Bowling frame revised.runtimeconfig.dev.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\bin\Debug\net5.0\Bowling frame revised.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\bin\Debug\net5.0\Bowling frame revised.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\obj\Debug\net5.0\Bowling frame revised.csproj.AssemblyReference.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\obj\Debug\net5.0\Bowling frame revised.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\obj\Debug\net5.0\Bowling frame revised.AssemblyInfoInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\obj\Debug\net5.0\Bowling frame revised.AssemblyInfo.cs
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\obj\Debug\net5.0\Bowling frame revised.csproj.CoreCompileInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\obj\Debug\net5.0\Bowling frame revised.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\obj\Debug\net5.0\refint\Bowling frame revised.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\obj\Debug\net5.0\Bowling frame revised.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\obj\Debug\net5.0\Bowling frame revised.genruntimeconfig.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Bowling frame revised\Bowling frame revised\obj\Debug\net5.0\ref\Bowling frame revised.dll

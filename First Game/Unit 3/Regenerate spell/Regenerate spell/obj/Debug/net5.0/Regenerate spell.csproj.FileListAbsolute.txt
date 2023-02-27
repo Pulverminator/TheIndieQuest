@@ -1,0 +1,16 @@
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\bin\Debug\net5.0\Regenerate spell.exe
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\bin\Debug\net5.0\Regenerate spell.deps.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\bin\Debug\net5.0\Regenerate spell.runtimeconfig.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\bin\Debug\net5.0\Regenerate spell.runtimeconfig.dev.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\bin\Debug\net5.0\Regenerate spell.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\bin\Debug\net5.0\Regenerate spell.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\obj\Debug\net5.0\Regenerate spell.csproj.AssemblyReference.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\obj\Debug\net5.0\Regenerate spell.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\obj\Debug\net5.0\Regenerate spell.AssemblyInfoInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\obj\Debug\net5.0\Regenerate spell.AssemblyInfo.cs
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\obj\Debug\net5.0\Regenerate spell.csproj.CoreCompileInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\obj\Debug\net5.0\Regenerate spell.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\obj\Debug\net5.0\refint\Regenerate spell.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\obj\Debug\net5.0\Regenerate spell.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\obj\Debug\net5.0\Regenerate spell.genruntimeconfig.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Regenerate spell\Regenerate spell\obj\Debug\net5.0\ref\Regenerate spell.dll
