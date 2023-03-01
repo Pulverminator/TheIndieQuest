@@ -1,0 +1,32 @@
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\bin\Debug\net5.0\Hit accuracy.exe
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\bin\Debug\net5.0\Hit accuracy.deps.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\bin\Debug\net5.0\Hit accuracy.runtimeconfig.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\bin\Debug\net5.0\Hit accuracy.runtimeconfig.dev.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\bin\Debug\net5.0\Hit accuracy.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\bin\Debug\net5.0\Hit accuracy.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.csproj.AssemblyReference.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.AssemblyInfoInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.AssemblyInfo.cs
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.csproj.CoreCompileInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\refint\Hit accuracy.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.genruntimeconfig.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\ref\Hit accuracy.dll
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\bin\Debug\net5.0\Hit accuracy.exe
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\bin\Debug\net5.0\Hit accuracy.deps.json
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\bin\Debug\net5.0\Hit accuracy.runtimeconfig.json
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\bin\Debug\net5.0\Hit accuracy.runtimeconfig.dev.json
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\bin\Debug\net5.0\Hit accuracy.dll
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\bin\Debug\net5.0\Hit accuracy.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.csproj.AssemblyReference.cache
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.AssemblyInfoInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.AssemblyInfo.cs
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.csproj.CoreCompileInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.dll
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\refint\Hit accuracy.dll
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\Hit accuracy.genruntimeconfig.cache
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 2\Hit accuracy\Hit accuracy\obj\Debug\net5.0\ref\Hit accuracy.dll
