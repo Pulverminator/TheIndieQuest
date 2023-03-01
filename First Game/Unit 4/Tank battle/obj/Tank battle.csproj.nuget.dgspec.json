@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pulve\\OneDrive\\Skrivbord\\FIRST GAME VS\\unit 4\\Tank battle\\Tank battle\\Tank battle.csproj": {}
+    "C:\\Users\\Pulve\\OneDrive\\Skrivbord\\First game\\Unit 4\\Tank battle\\Tank battle\\Tank battle.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pulve\\OneDrive\\Skrivbord\\FIRST GAME VS\\unit 4\\Tank battle\\Tank battle\\Tank battle.csproj": {
+    "C:\\Users\\Pulve\\OneDrive\\Skrivbord\\First game\\Unit 4\\Tank battle\\Tank battle\\Tank battle.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pulve\\OneDrive\\Skrivbord\\FIRST GAME VS\\unit 4\\Tank battle\\Tank battle\\Tank battle.csproj",
+        "projectUniqueName": "C:\\Users\\Pulve\\OneDrive\\Skrivbord\\First game\\Unit 4\\Tank battle\\Tank battle\\Tank battle.csproj",
         "projectName": "Tank battle",
-        "projectPath": "C:\\Users\\Pulve\\OneDrive\\Skrivbord\\FIRST GAME VS\\unit 4\\Tank battle\\Tank battle\\Tank battle.csproj",
+        "projectPath": "C:\\Users\\Pulve\\OneDrive\\Skrivbord\\First game\\Unit 4\\Tank battle\\Tank battle\\Tank battle.csproj",
         "packagesPath": "C:\\Users\\Pulve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pulve\\OneDrive\\Skrivbord\\FIRST GAME VS\\unit 4\\Tank battle\\Tank battle\\obj\\",
+        "outputPath": "C:\\Users\\Pulve\\OneDrive\\Skrivbord\\First game\\Unit 4\\Tank battle\\Tank battle\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pulve\\AppData\\Roaming\\NuGet\\NuGet.Config",
