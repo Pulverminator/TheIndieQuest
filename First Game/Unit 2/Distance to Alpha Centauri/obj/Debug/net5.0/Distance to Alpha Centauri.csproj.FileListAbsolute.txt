@@ -1,0 +1,16 @@
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\obj\Debug\net5.0\Distance to Alpha Centauri.csproj.AssemblyReference.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\obj\Debug\net5.0\Distance to Alpha Centauri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\obj\Debug\net5.0\Distance to Alpha Centauri.AssemblyInfoInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\obj\Debug\net5.0\Distance to Alpha Centauri.AssemblyInfo.cs
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\obj\Debug\net5.0\Distance to Alpha Centauri.csproj.CoreCompileInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\bin\Debug\net5.0\Distance to Alpha Centauri.exe
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\bin\Debug\net5.0\Distance to Alpha Centauri.deps.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\bin\Debug\net5.0\Distance to Alpha Centauri.runtimeconfig.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\bin\Debug\net5.0\Distance to Alpha Centauri.runtimeconfig.dev.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\bin\Debug\net5.0\Distance to Alpha Centauri.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\bin\Debug\net5.0\Distance to Alpha Centauri.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\obj\Debug\net5.0\Distance to Alpha Centauri.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\obj\Debug\net5.0\refint\Distance to Alpha Centauri.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\obj\Debug\net5.0\Distance to Alpha Centauri.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\obj\Debug\net5.0\Distance to Alpha Centauri.genruntimeconfig.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 2\Distance to Alpha Centauri\Distance to Alpha Centauri\obj\Debug\net5.0\ref\Distance to Alpha Centauri.dll
