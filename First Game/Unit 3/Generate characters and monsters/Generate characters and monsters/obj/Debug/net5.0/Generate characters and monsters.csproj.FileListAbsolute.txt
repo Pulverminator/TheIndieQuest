@@ -14,3 +14,19 @@ C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Generate characters and m
 C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.pdb
 C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.genruntimeconfig.cache
 C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\ref\Generate characters and monsters.dll
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\bin\Debug\net5.0\Generate characters and monsters.exe
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\bin\Debug\net5.0\Generate characters and monsters.deps.json
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\bin\Debug\net5.0\Generate characters and monsters.runtimeconfig.json
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\bin\Debug\net5.0\Generate characters and monsters.runtimeconfig.dev.json
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\bin\Debug\net5.0\Generate characters and monsters.dll
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\bin\Debug\net5.0\Generate characters and monsters.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.csproj.AssemblyReference.cache
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.AssemblyInfoInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.AssemblyInfo.cs
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.csproj.CoreCompileInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.dll
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\refint\Generate characters and monsters.dll
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\Generate characters and monsters.genruntimeconfig.cache
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 3\Generate characters and monsters\Generate characters and monsters\obj\Debug\net5.0\ref\Generate characters and monsters.dll
