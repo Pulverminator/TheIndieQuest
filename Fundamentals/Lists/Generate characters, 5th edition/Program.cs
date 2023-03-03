@@ -26,22 +26,21 @@ namespace GenerateCharacters
 				Console.WriteLine();
 				Console.Write("You roll ");
 				foreach (var dice in rollMem)
-					Console.Write($"{dice} ");
-				Console.WriteLine(string.Join(", ", roll));
+					Console.Write(dice);
+				Console.WriteLine($"{string.Join(", ", roll)}");
 				int lowest = rollMem.Min();
 				rollTotal -= lowest;
 				rollMem.Remove(lowest);
 				rollTotalMem.Add(rollTotal);
-				rollTotalMem.Sort();				
-				Console.WriteLine($"The ability score is {rollTotal} ");
-				rollTotal = 0;
+				rollTotalMem.Sort();
+				Console.WriteLine($"The ability score is {string.Join(", ", rollTotal)} ");
 				rollMem.Clear();
 			}
-			Console.WriteLine(string.Join(",", rollTotal));
+			Console.WriteLine($"{string.Join(", ", rollTotal)}");
 			Console.Write("Your available ability scores are ");
 			foreach (var dice in rollTotalMem)
 				Console.Write($"{dice} ");
-			Console.WriteLine(string.Join(",","."));
+			Console.WriteLine();
 		}
 		
 
