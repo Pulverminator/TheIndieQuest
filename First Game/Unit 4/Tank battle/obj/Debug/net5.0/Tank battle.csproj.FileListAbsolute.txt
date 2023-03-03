@@ -1,0 +1,32 @@
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\bin\Debug\net5.0\Tank battle.exe
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\bin\Debug\net5.0\Tank battle.deps.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\bin\Debug\net5.0\Tank battle.runtimeconfig.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\bin\Debug\net5.0\Tank battle.runtimeconfig.dev.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\bin\Debug\net5.0\Tank battle.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\bin\Debug\net5.0\Tank battle.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.csproj.AssemblyReference.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.AssemblyInfoInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.AssemblyInfo.cs
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.csproj.CoreCompileInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\obj\Debug\net5.0\refint\Tank battle.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.genruntimeconfig.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 4\Tank battle\Tank battle\obj\Debug\net5.0\ref\Tank battle.dll
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\bin\Debug\net5.0\Tank battle.exe
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\bin\Debug\net5.0\Tank battle.deps.json
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\bin\Debug\net5.0\Tank battle.runtimeconfig.json
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\bin\Debug\net5.0\Tank battle.runtimeconfig.dev.json
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\bin\Debug\net5.0\Tank battle.dll
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\bin\Debug\net5.0\Tank battle.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.csproj.AssemblyReference.cache
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.AssemblyInfoInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.AssemblyInfo.cs
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.csproj.CoreCompileInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.dll
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\obj\Debug\net5.0\refint\Tank battle.dll
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\obj\Debug\net5.0\Tank battle.genruntimeconfig.cache
+C:\Users\Pulve\OneDrive\Skrivbord\First game\Unit 4\Tank battle\Tank battle\obj\Debug\net5.0\ref\Tank battle.dll

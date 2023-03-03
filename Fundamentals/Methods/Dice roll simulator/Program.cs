@@ -69,19 +69,14 @@ namespace Combat_simulator
 
 		static int DiceRoll(int numberOfRolls, int diceSides, int fixedBonus = 0)
 		{
-			int result = 0;
+			int result = 0;			
 			for (int i = 0; i < numberOfRolls; i++)
 			{
 
-				result = result + random.Next(1, diceSides + 1);
+				result = random.Next(1, diceSides + 1) + fixedBonus;
+
 			}
-			return result += fixedBonus;
-
-			// Roll X dice
-			// Sum their results together
-			// add the fixed bonus
-
-
+			return result;
 		}
 
 		static void Main(string[] args)

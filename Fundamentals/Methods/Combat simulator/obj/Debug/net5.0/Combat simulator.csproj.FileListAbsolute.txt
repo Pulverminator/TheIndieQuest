@@ -1,0 +1,16 @@
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\bin\Debug\net5.0\Combat simulator.exe
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\bin\Debug\net5.0\Combat simulator.deps.json
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\bin\Debug\net5.0\Combat simulator.runtimeconfig.json
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\bin\Debug\net5.0\Combat simulator.runtimeconfig.dev.json
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\bin\Debug\net5.0\Combat simulator.dll
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\bin\Debug\net5.0\Combat simulator.pdb
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\obj\Debug\net5.0\Combat simulator.csproj.AssemblyReference.cache
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\obj\Debug\net5.0\Combat simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\obj\Debug\net5.0\Combat simulator.AssemblyInfoInputs.cache
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\obj\Debug\net5.0\Combat simulator.AssemblyInfo.cs
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\obj\Debug\net5.0\Combat simulator.csproj.CoreCompileInputs.cache
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\obj\Debug\net5.0\Combat simulator.dll
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\obj\Debug\net5.0\refint\Combat simulator.dll
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\obj\Debug\net5.0\Combat simulator.pdb
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\obj\Debug\net5.0\Combat simulator.genruntimeconfig.cache
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Combat simulator\obj\Debug\net5.0\ref\Combat simulator.dll

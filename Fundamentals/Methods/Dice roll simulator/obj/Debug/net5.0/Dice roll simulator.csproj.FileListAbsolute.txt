@@ -1,0 +1,16 @@
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\bin\Debug\net5.0\Dice roll simulator.exe
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\bin\Debug\net5.0\Dice roll simulator.deps.json
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\bin\Debug\net5.0\Dice roll simulator.runtimeconfig.json
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\bin\Debug\net5.0\Dice roll simulator.runtimeconfig.dev.json
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\bin\Debug\net5.0\Dice roll simulator.dll
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\bin\Debug\net5.0\Dice roll simulator.pdb
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\obj\Debug\net5.0\Dice roll simulator.csproj.AssemblyReference.cache
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\obj\Debug\net5.0\Dice roll simulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\obj\Debug\net5.0\Dice roll simulator.AssemblyInfoInputs.cache
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\obj\Debug\net5.0\Dice roll simulator.AssemblyInfo.cs
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\obj\Debug\net5.0\Dice roll simulator.csproj.CoreCompileInputs.cache
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\obj\Debug\net5.0\Dice roll simulator.dll
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\obj\Debug\net5.0\refint\Dice roll simulator.dll
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\obj\Debug\net5.0\Dice roll simulator.pdb
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\obj\Debug\net5.0\Dice roll simulator.genruntimeconfig.cache
+C:\Users\Pulve\OneDrive\Dokument\GitHub\TheIndieQuest\Fundamentals\Methods\Dice roll simulator\obj\Debug\net5.0\ref\Dice roll simulator.dll

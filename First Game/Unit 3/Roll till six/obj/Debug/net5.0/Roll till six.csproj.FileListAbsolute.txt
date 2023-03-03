@@ -1,0 +1,16 @@
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\bin\Debug\net5.0\Roll till six.exe
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\bin\Debug\net5.0\Roll till six.deps.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\bin\Debug\net5.0\Roll till six.runtimeconfig.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\bin\Debug\net5.0\Roll till six.runtimeconfig.dev.json
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\bin\Debug\net5.0\Roll till six.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\bin\Debug\net5.0\Roll till six.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\obj\Debug\net5.0\Roll till six.csproj.AssemblyReference.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\obj\Debug\net5.0\Roll till six.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\obj\Debug\net5.0\Roll till six.AssemblyInfoInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\obj\Debug\net5.0\Roll till six.AssemblyInfo.cs
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\obj\Debug\net5.0\Roll till six.csproj.CoreCompileInputs.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\obj\Debug\net5.0\Roll till six.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\obj\Debug\net5.0\refint\Roll till six.dll
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\obj\Debug\net5.0\Roll till six.pdb
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\obj\Debug\net5.0\Roll till six.genruntimeconfig.cache
+C:\Users\Pulve\OneDrive\Skrivbord\FIRST GAME VS\unit 3\Roll till six\Roll till six\obj\Debug\net5.0\ref\Roll till six.dll

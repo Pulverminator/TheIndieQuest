@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Dice roll simulator/1.0.0": {
+        "runtime": {
+          "Dice roll simulator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dice roll simulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
