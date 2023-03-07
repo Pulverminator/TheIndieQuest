@@ -18,7 +18,7 @@ namespace The_Matrix
 			{
 				streams.Add(random.Next(0, 80));
 			}
-			Console.WriteLine(i);
+			Console.WriteLine();
 			Console.ForegroundColor = ConsoleColor.DarkGreen;
 			
 
