@@ -7,12 +7,18 @@ namespace OrdinalNumber
 		Random random = new Random();
 		static void Main(string[] args)
 		{
-			OrdinalNumber();			
+			Console.WriteLine(OrdinalNumber(1));
+			Console.WriteLine(OrdinalNumber(2));
+			Console.WriteLine(OrdinalNumber(3));
+			Console.WriteLine(OrdinalNumber(4));
+			Console.WriteLine(OrdinalNumber(10));
+			Console.WriteLine(OrdinalNumber(21));
+			Console.WriteLine(OrdinalNumber(123));
+			
 		}
 
 		static string OrdinalNumber(int number)
 		{
-			Console.WriteLine(number);
 			int lastDigit = number % 10;
 			int secondToLastDigit = (number / 10) % 10;
 
@@ -35,8 +41,7 @@ namespace OrdinalNumber
 			else
 			{
 				return number + "th";				
-			}
-			
+			}			
 
 		}
 	}
