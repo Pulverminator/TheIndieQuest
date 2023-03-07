@@ -31,11 +31,11 @@ namespace The_Matrix
 				Console.WriteLine();
 				Thread.Sleep(100);
 
-				if (random.Next(3) <= 0)
+				if (random.Next(3) == 0)
 				{
 					streams.RemoveAt(random.Next(streams.Count));
 				}
-				if (random.Next(3) >= 0) 
+				if (random.Next(3) == 0) 
 				{
 					streams.Add(random.Next(0, 80));
 				}
