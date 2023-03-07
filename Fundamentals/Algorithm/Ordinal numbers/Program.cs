@@ -18,8 +18,7 @@ namespace OrdinalNumber
 			Console.WriteLine(OrdinalNumber(21));
 			Console.WriteLine(OrdinalNumber(101));
 			Console.WriteLine(OrdinalNumber(111));
-			Console.WriteLine(OrdinalNumber(121));
-			
+			Console.WriteLine(OrdinalNumber(121));			
 		}
 
 		static string OrdinalNumber(int number)
@@ -46,8 +45,7 @@ namespace OrdinalNumber
 			else
 			{
 				return number + "th";				
-			}			
-
+			}
 		}
 	}
 }
