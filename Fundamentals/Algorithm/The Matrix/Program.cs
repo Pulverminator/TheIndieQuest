@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Threading;
 
 namespace The_Matrix
@@ -17,16 +18,15 @@ namespace The_Matrix
 			{
 				streams.Add(random.Next(0, 80));
 			}
-				Console.WriteLine(i);
-			{
-				Console.ForegroundColor = ConsoleColor.DarkGreen;
-			}
+			Console.WriteLine(i);
+			Console.ForegroundColor = ConsoleColor.DarkGreen;
+			
 
 			while (true)
 			{
 				for (int x = 0; x < 80; x++)
 				{
-					Console.Write(streams.Contains(x) ? random.Next(symbols.Length) : ' ');
+					Console.Write(streams.Contains(x) ? symbols[random.Next(symbols.Length)].ToString() : ' ');
 				}				
 				
 				Console.WriteLine();
