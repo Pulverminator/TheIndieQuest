@@ -12,8 +12,13 @@ namespace OrdinalNumber
 			Console.WriteLine(OrdinalNumber(3));
 			Console.WriteLine(OrdinalNumber(4));
 			Console.WriteLine(OrdinalNumber(10));
+			Console.WriteLine(OrdinalNumber(11));
+			Console.WriteLine(OrdinalNumber(12));
+			Console.WriteLine(OrdinalNumber(13));
 			Console.WriteLine(OrdinalNumber(21));
-			Console.WriteLine(OrdinalNumber(123));
+			Console.WriteLine(OrdinalNumber(101));
+			Console.WriteLine(OrdinalNumber(111));
+			Console.WriteLine(OrdinalNumber(121));
 			
 		}
 
