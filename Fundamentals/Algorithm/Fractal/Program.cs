@@ -34,6 +34,7 @@ namespace Fractal
 				}
 				Console.WriteLine();
 			}
+			Console.ReadKey();
 		}
 	}
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Pulve\\OneDrive\\Dokument\\GitHub\\TheIndieQuest\\Fundamentals\\Lists\\Battle with the basilisk\\Battle with the basilisk\\Battle with the basilisk.csproj",
+      "projectUniqueName": "E:\\GitHub\\TheIndieQuest\\Fundamentals\\Lists\\Battle with the basilisk\\Battle with the basilisk.csproj",
       "projectName": "Battle with the basilisk",
-      "projectPath": "C:\\Users\\Pulve\\OneDrive\\Dokument\\GitHub\\TheIndieQuest\\Fundamentals\\Lists\\Battle with the basilisk\\Battle with the basilisk\\Battle with the basilisk.csproj",
+      "projectPath": "E:\\GitHub\\TheIndieQuest\\Fundamentals\\Lists\\Battle with the basilisk\\Battle with the basilisk.csproj",
       "packagesPath": "C:\\Users\\Pulve\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Pulve\\OneDrive\\Dokument\\GitHub\\TheIndieQuest\\Fundamentals\\Lists\\Battle with the basilisk\\Battle with the basilisk\\obj\\",
+      "outputPath": "E:\\GitHub\\TheIndieQuest\\Fundamentals\\Lists\\Battle with the basilisk\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Pulve\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pulve\\OneDrive\\Dokument\\GitHub\\TheIndieQuest\\Fundamentals\\Methods\\Combat simulator\\Combat simulator.csproj": {}
+    "E:\\GitHub\\TheIndieQuest\\Fundamentals\\Methods\\Combat simulator\\Combat simulator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pulve\\OneDrive\\Dokument\\GitHub\\TheIndieQuest\\Fundamentals\\Methods\\Combat simulator\\Combat simulator.csproj": {
+    "E:\\GitHub\\TheIndieQuest\\Fundamentals\\Methods\\Combat simulator\\Combat simulator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pulve\\OneDrive\\Dokument\\GitHub\\TheIndieQuest\\Fundamentals\\Methods\\Combat simulator\\Combat simulator.csproj",
+        "projectUniqueName": "E:\\GitHub\\TheIndieQuest\\Fundamentals\\Methods\\Combat simulator\\Combat simulator.csproj",
         "projectName": "Combat simulator",
-        "projectPath": "C:\\Users\\Pulve\\OneDrive\\Dokument\\GitHub\\TheIndieQuest\\Fundamentals\\Methods\\Combat simulator\\Combat simulator.csproj",
+        "projectPath": "E:\\GitHub\\TheIndieQuest\\Fundamentals\\Methods\\Combat simulator\\Combat simulator.csproj",
         "packagesPath": "C:\\Users\\Pulve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pulve\\OneDrive\\Dokument\\GitHub\\TheIndieQuest\\Fundamentals\\Methods\\Combat simulator\\obj\\",
+        "outputPath": "E:\\GitHub\\TheIndieQuest\\Fundamentals\\Methods\\Combat simulator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pulve\\AppData\\Roaming\\NuGet\\NuGet.Config",
