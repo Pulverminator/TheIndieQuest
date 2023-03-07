@@ -9,12 +9,11 @@ namespace The_Matrix
 	{
 		static void Main(string[] args)
 		{
-			Random random = new Random();
+			
 			var streams = new List<int>();
-			string symbols = @"!@#$%^&*()_+-=[];',.\/~{}:|<>?";			
-			int i = symbols.Length;			
-
-			for (i = 0; i < 10; i++)
+			string symbols = @"!@#$%^&*()_+-=[];',.\/~{}:|<>?";
+			Random random = new Random();
+			for (int i = 0; i < 10; i++)
 			{
 				streams.Add(random.Next(0, 80));
 			}
@@ -32,11 +31,11 @@ namespace The_Matrix
 				Console.WriteLine();
 				Thread.Sleep(100);
 
-				if (random.Next(3) < 0)
+				if (random.Next(3) <= 0)
 				{
 					streams.RemoveAt(random.Next(streams.Count));
 				}
-				if (random.Next(3) > 0) 
+				if (random.Next(3) >= 0) 
 				{
 					streams.Add(random.Next(0, 80));
 				}
