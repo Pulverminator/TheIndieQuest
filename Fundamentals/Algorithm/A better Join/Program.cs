@@ -28,7 +28,7 @@ namespace ConsoleApp
 				var itemsCopy = new List<string>(items);
 				if (useSerialComma)
 				{
-					itemsCopy[count - 1] = " and " + items[count - 1];
+					itemsCopy[count - 1] = " and " + itemsCopy[count - 1];
 				}
 				else
 				{
