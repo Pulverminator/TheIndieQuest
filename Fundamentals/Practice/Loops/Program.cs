@@ -7,64 +7,73 @@ namespace HashTagObjects
 		static void Main(string[] args)
 		{
 			Console.Write("Enter a number: ");
-			int size = int.Parse(Console.ReadLine());
+			int n = int.Parse(Console.ReadLine());
 
-			Console.WriteLine("Drawing a line of length " + size + ":");
-			DrawLine(size);
+			Console.WriteLine("\nDrawing a line of length " + n);
+			DrawLine(n);
 
-			Console.WriteLine("\nDrawing a square with side length " + size + ":");
-			DrawSquare(size);
+			Console.WriteLine("\nDrawing a square with side length " + n);
+			DrawSquare(n);
 
-			Console.WriteLine("\nDrawing a right triangle with legs of length " + size + ":");
-			DrawRightTriangle(size);
+			Console.WriteLine("\nDrawing a right triangle with legs of length " + n);
+			DrawRightTriangle(n);
 
-			Console.WriteLine("\nDrawing a parallelogram with height " + size + ":");
-			DrawParallelogram(size);
+			Console.WriteLine("\nDrawing a parallelogram with height " + n);
+			DrawParallelogram(n);
 
-			Console.WriteLine("\nDrawing an isosceles triangle with height " + size + ":");
-			DrawIsoscelesTriangle(size);
+			Console.WriteLine("\nDrawing an isosceles triangle with height " + n);
+			DrawIsoscelesTriangle(n);
 
 			Console.ReadLine();
 		}
 
-		static void DrawLine(int size)
+		static void DrawLine(int n) // Draw a line n long.
 		{
-			for (int i = 0; i < size; i++)
+			for (int i = 0; i < n; i++)
 			{
-				Console.WriteLine(new string('#', size));
+				Console.Write("#", n);
 			}
 		}
 
-		static void DrawSquare(int size)
+		static void DrawSquare(int n)  // Draw a square with side n.
 		{
-			for (int i = 0; i < size; i++)
+			for (int i = 0; i < n; i++)
 			{
-				Console.WriteLine(new string('#', size));
+				Console.WriteLine(new string('#', n));
 			}
 		}
 
-		static void DrawRightTriangle(int size)
+		static void DrawRightTriangle(int n) // Draw a right triangle with legs size n.
 		{
-			for (int i = 0; i < size; i++)
+			for (int i = 0; i < n; i++)
 			{
-				Console.WriteLine(new string(' ', size - i - 1) + new string('#', i + 1));
+				Console.WriteLine(new string('#', n - i));
 			}
 		}
 
-		static void DrawParallelogram(int size)
+		static void DrawParallelogram(int n) // Draw a parallelogram with height n.
 		{
-			for (int i = 0; i < size; i++)
+			for (int i = 0; i < n; i++)
 			{
-				Console.WriteLine(new string(' ', i) + new string('#', size));
+				Console.WriteLine(new string('.', n - i) + new string('#', n));
 			}
 		}
 
-		static void DrawIsoscelesTriangle(int size)
+		static void DrawIsoscelesTriangle(int n) // Draw an Isosceles triangle with height n and base 2n-1.
 		{
-			for (int i = 0; i < size; i++)
+			for (int i = 0; i < n; i++)
 			{
-				Console.WriteLine(new string(' ', size - i - 1) + new string('#', 2 * i + 1));
+				Console.WriteLine(new string('.', n - i - 1) + new string('#',  2 * i + 1));
 			}
 		}
+
+
+
+
+
+
+
+
+
 	}
 }
