@@ -10,25 +10,25 @@ namespace HashTagObjects
 			int n = int.Parse(Console.ReadLine());
 
 			Console.WriteLine("\nDrawing a line of length " + n);
-			DrawLine(n);
+			DrawTwo(n);
 
 			Console.WriteLine("\nDrawing a square with side length " + n);
-			DrawSquare(n);
+			DrawThree(n);
 
 			Console.WriteLine("\nDrawing a right triangle with legs of length " + n);
-			DrawRightTriangle(n);
+			DrawFour(n);
 
 			Console.WriteLine("\nDrawing a parallelogram with height " + n);
-			DrawParallelogram(n);
+			DrawFive(n);
 
 			Console.WriteLine("\nDrawing an isosceles triangle with height " + n);
-			DrawIsoscelesTriangle(n);
+			DrawSix(n);
 
 			Console.WriteLine("\nDraw a square with side n with every other row blank. " + n);
-			DrawSquareOtherBlank(n);
+			DrawSeven(n);
 
 			Console.WriteLine("\nDraw a square with side n with every other column blank. " + n);
-			quareWithside(n);
+			DrawEight(n);
 
 			Console.WriteLine("\nDraw a grid with side n with a line on every other row and every other column. " + n);
 			DrawNine(n);
@@ -39,7 +39,7 @@ namespace HashTagObjects
 			Console.ReadLine();
 		}
 
-		static void DrawLine(int n) // Draw a line n long.
+		static void DrawTwo(int n) // Draw a line n long.
 		{
 			for (int i = 0; i < n; i++)
 			{
@@ -47,7 +47,7 @@ namespace HashTagObjects
 			}
 		}
 
-		static void DrawSquare(int n)  // Draw a square with side n.
+		static void DrawThree(int n)  // Draw a square with side n.
 		{
 			for (int i = 0; i < n; i++)
 			{
@@ -55,7 +55,7 @@ namespace HashTagObjects
 			}
 		}
 
-		static void DrawRightTriangle(int n) // Draw a right triangle with legs size n.
+		static void DrawFour(int n) // Draw a right triangle with legs size n.
 		{
 			for (int i = n; i >= 0; i--)
 			{
@@ -63,7 +63,7 @@ namespace HashTagObjects
 			}
 		}
 
-		static void DrawParallelogram(int n) // Draw a parallelogram with height n.
+		static void DrawFive(int n) // Draw a parallelogram with height n.
 		{
 			for (int i = 0; i < n; i++)
 			{
@@ -71,14 +71,14 @@ namespace HashTagObjects
 			}
 		}
 
-		static void DrawIsoscelesTriangle(int n) // Draw an Isosceles triangle with height n and base 2n-1.
+		static void DrawSix(int n) // Draw an Isosceles triangle with height n and base 2n-1.
 		{
 			for (int i = 0; i < n; i++)
 			{
 				Console.WriteLine(new string('.', n - i - 1) + new string('#', 2 * i + 1));
 			}
 		}
-		static void DrawSquareOtherBlank(int n) // Draw a square with side n with every other row blank.
+		static void DrawSeven(int n) // Draw a square with side n with every other row blank.
 		{
 			for (int y = 0; y < n; y++)
 			{
@@ -97,7 +97,7 @@ namespace HashTagObjects
 				Console.WriteLine();
 			}
 		}
-		static void quareWithside(int n) // Draw a square with side n with every other column blank.
+		static void DrawEight(int n) // Draw a square with side n with every other column blank.
 		{
 			for (int y = 0; y < n; y++)
 			{
@@ -126,7 +126,7 @@ namespace HashTagObjects
 					{
 						Console.Write("#");  //#
 					}
-					else if (x % 2 == 1)
+					else if (x % 2 == 0)
 					{
 						Console.Write(".");  //.
 					}
