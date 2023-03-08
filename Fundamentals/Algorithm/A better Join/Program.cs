@@ -28,17 +28,16 @@ namespace ConsoleApp
 				var itemsCopy = new List<string>(items);
 				if (useSerialComma)
 				{
-					itemsCopy[count - 1] = $"and, {items[count - 1]}";
+					itemsCopy[count - 1] = " and " + items[count - 1];
 				}
 				else
 				{
-					itemsCopy.RemoveAt(count - 1);
-					itemsCopy[count - 2] = " and " + items[0];
+					itemsCopy.RemoveAt(itemsCopy.Count - 1);
+					itemsCopy[count - 2] = itemsCopy[count - 2] + " and " + items[count - 1];
 				}
 				return String.Join(",", itemsCopy);
-			}
-
-
+			}				
+			
 		}
 	
 		static void Main(string[] args)
@@ -47,7 +46,7 @@ namespace ConsoleApp
 
 			while (Heroes.Count > 0)
 			{
-				Console.WriteLine($"The heroes in the party are: " + JoinWithAnd(Heroes));
+				Console.WriteLine($"The heroes in the party are: " + JoinWithAnd(Heroes, false));
 				if (Heroes.Count > 0)
 				{
 					Heroes.RemoveAt(0);
@@ -57,11 +56,10 @@ namespace ConsoleApp
 					break;
 				}
 			}
+
+			Console.ReadKey();
 		}
-
 	}
-
-
 }
 
 
