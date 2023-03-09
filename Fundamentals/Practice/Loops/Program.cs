@@ -24,13 +24,13 @@ namespace HashTagObjects
 			Console.WriteLine("\nDrawing an isosceles triangle with height " + n);
 			DrawSix(n);
 
-			Console.WriteLine("\nDraw a square with side n with every other row blank. " + n);
+			Console.WriteLine("\nDraw a square with side n with every other row blank " + n);
 			DrawSeven(n);
 
-			Console.WriteLine("\nDraw a square with side n with every other column blank. " + n);
+			Console.WriteLine("\nDraw a square with side n with every other column blank " + n);
 			DrawEight(n);
 
-			Console.WriteLine("\nDraw a grid with side n with a line on every other row and every other column. " + n);
+			Console.WriteLine("\nDraw a grid with side n with a line on every other row and every other column " + n);
 			DrawNine(n);
 
 
@@ -112,7 +112,7 @@ namespace HashTagObjects
 						Console.Write(".");  //.
 
 					}
-				}
+				}				
 				Console.WriteLine();
 			}
 		}
@@ -120,18 +120,19 @@ namespace HashTagObjects
 		{
 			for (int y = 0; y < n; y++)
 			{
+				
 				for (int x = 0; x < n; x++)
 				{
-					if (y % 2 == 0)
+					if (x % 2 == 0 || y % 2 == 0)
 					{
-						Console.Write("#");  //#
+						Console.Write("#");
 					}
-					else if (x % 2 == 0)
+					else
 					{
-						Console.Write(".");  //.
+						Console.Write(".");
 					}
 				}
-				Console.WriteLine();
+				Console.WriteLine();				
 			}
 		}
 	}
