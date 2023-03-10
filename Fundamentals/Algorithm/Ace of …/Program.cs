@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Text;
 
 namespace Ace_of__
 {
@@ -11,10 +12,34 @@ namespace Ace_of__
 			Diamond,
 			Club
 		}
-
-		static void DrawAce()
+		enum Rank
 		{
-			Console.WriteLine("╭───────╮\r\n│A      │\r\n│♠      │\r\n│   ♠   │\r\n│      ♠│\r\n│      A│\r\n╰───────╯\r\n");
+			Two,
+			Three,
+			Four,
+			Five,
+			Six,
+			Seven,
+			Eight,
+			Nine,
+			Ten,
+			Jack,
+			Queen,
+			King,
+			Ace
+		}
+
+
+		static void DrawAce(Suit suit)
+		{
+			if (suit == Suit.Spade) 
+			{ 
+				Console.WriteLine("╭───────╮\r\n│A      │\r\n│♠      │\r\n│   ♠   │\r\n│      ♠│\r\n│      A│\r\n╰───────╯\r\n");
+			}
+			if (suit == Suit.Heart)
+			{
+				Console.WriteLine("╭───────╮\r\n│A      │\r\n│♥      │\r\n│   ♥   │\r\n│      ♥│\r\n│      A│\r\n╰───────╯\r\n");
+			}
 		}
 
 
@@ -22,7 +47,8 @@ namespace Ace_of__
 		static void Main(string[] args)
 		{
 			Console.OutputEncoding = System.Text.Encoding.UTF8;
-			DrawAce();
+			DrawAce(Suit.Spade);
+			DrawAce(Suit.Heart);
 		}
 	}
 }
