@@ -8,5 +8,30 @@ namespace Arrays
 		{
 			Console.WriteLine("Hello World!");
 		}
+
+		static string CreateDayDescription(int day, int season, int year)
+		{
+
+
+
+
+
+
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 	}
+
 }
