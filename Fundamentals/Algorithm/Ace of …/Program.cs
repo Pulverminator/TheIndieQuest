@@ -32,13 +32,13 @@ namespace Ace_of__
 
 		static void DrawAce(Suit suit)
 		{
-			if (suit == Suit.Spade) 
-			{ 
-				Console.WriteLine("╭───────╮\r\n│A      │\r\n│♠      │\r\n│   ♠   │\r\n│      ♠│\r\n│      A│\r\n╰───────╯\r\n");
-			}
 			if (suit == Suit.Heart)
-			{
+			{ 
 				Console.WriteLine("╭───────╮\r\n│A      │\r\n│♥      │\r\n│   ♥   │\r\n│      ♥│\r\n│      A│\r\n╰───────╯\r\n");
+			}
+			if (suit == Suit.Spade)
+			{
+				Console.WriteLine("╭───────╮\r\n│A      │\r\n│♠      │\r\n│   ♠   │\r\n│      ♠│\r\n│      A│\r\n╰───────╯\r\n");
 			}
 			if (suit == Suit.Diamond)
 			{
@@ -55,8 +55,8 @@ namespace Ace_of__
 		static void Main(string[] args)
 		{
 			Console.OutputEncoding = System.Text.Encoding.UTF8;
-			DrawAce(Suit.Spade);
 			DrawAce(Suit.Heart);
+			DrawAce(Suit.Spade);
 			DrawAce(Suit.Diamond);
 			DrawAce(Suit.Club);
 		}
