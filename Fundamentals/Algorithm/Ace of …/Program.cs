@@ -40,6 +40,14 @@ namespace Ace_of__
 			{
 				Console.WriteLine("╭───────╮\r\n│A      │\r\n│♥      │\r\n│   ♥   │\r\n│      ♥│\r\n│      A│\r\n╰───────╯\r\n");
 			}
+			if (suit == Suit.Diamond)
+			{
+				Console.WriteLine("╭───────╮\r\n│A      │\r\n│♦      │\r\n│   ♦   │\r\n│      ♦│\r\n│      A│\r\n╰───────╯\r\n");
+			}
+			if (suit == Suit.Club)
+			{
+				Console.WriteLine("╭───────╮\r\n│A      │\r\n│♣      │\r\n│   ♣   │\r\n│      ♣│\r\n│      A│\r\n╰───────╯\r\n");
+			}
 		}
 
 
@@ -49,6 +57,8 @@ namespace Ace_of__
 			Console.OutputEncoding = System.Text.Encoding.UTF8;
 			DrawAce(Suit.Spade);
 			DrawAce(Suit.Heart);
+			DrawAce(Suit.Diamond);
+			DrawAce(Suit.Club);
 		}
 	}
 }
