@@ -1,0 +1,16 @@
+E:\Game dev\Arrays\Increasing level difficulty\bin\Debug\net5.0\Increasing level difficulty.exe
+E:\Game dev\Arrays\Increasing level difficulty\bin\Debug\net5.0\Increasing level difficulty.deps.json
+E:\Game dev\Arrays\Increasing level difficulty\bin\Debug\net5.0\Increasing level difficulty.runtimeconfig.json
+E:\Game dev\Arrays\Increasing level difficulty\bin\Debug\net5.0\Increasing level difficulty.runtimeconfig.dev.json
+E:\Game dev\Arrays\Increasing level difficulty\bin\Debug\net5.0\Increasing level difficulty.dll
+E:\Game dev\Arrays\Increasing level difficulty\bin\Debug\net5.0\Increasing level difficulty.pdb
+E:\Game dev\Arrays\Increasing level difficulty\obj\Debug\net5.0\Increasing level difficulty.csproj.AssemblyReference.cache
+E:\Game dev\Arrays\Increasing level difficulty\obj\Debug\net5.0\Increasing level difficulty.GeneratedMSBuildEditorConfig.editorconfig
+E:\Game dev\Arrays\Increasing level difficulty\obj\Debug\net5.0\Increasing level difficulty.AssemblyInfoInputs.cache
+E:\Game dev\Arrays\Increasing level difficulty\obj\Debug\net5.0\Increasing level difficulty.AssemblyInfo.cs
+E:\Game dev\Arrays\Increasing level difficulty\obj\Debug\net5.0\Increasing level difficulty.csproj.CoreCompileInputs.cache
+E:\Game dev\Arrays\Increasing level difficulty\obj\Debug\net5.0\Increasing level difficulty.dll
+E:\Game dev\Arrays\Increasing level difficulty\obj\Debug\net5.0\refint\Increasing level difficulty.dll
+E:\Game dev\Arrays\Increasing level difficulty\obj\Debug\net5.0\Increasing level difficulty.pdb
+E:\Game dev\Arrays\Increasing level difficulty\obj\Debug\net5.0\Increasing level difficulty.genruntimeconfig.cache
+E:\Game dev\Arrays\Increasing level difficulty\obj\Debug\net5.0\ref\Increasing level difficulty.dll
