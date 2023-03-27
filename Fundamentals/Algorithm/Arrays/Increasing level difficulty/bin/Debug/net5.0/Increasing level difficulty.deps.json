@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Increasing level difficulty/1.0.0": {
+        "runtime": {
+          "Increasing level difficulty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Increasing level difficulty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
