@@ -1,0 +1,16 @@
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\bin\Debug\net5.0\Party dilemma.exe
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\bin\Debug\net5.0\Party dilemma.deps.json
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\bin\Debug\net5.0\Party dilemma.runtimeconfig.json
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\bin\Debug\net5.0\Party dilemma.runtimeconfig.dev.json
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\bin\Debug\net5.0\Party dilemma.dll
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\bin\Debug\net5.0\Party dilemma.pdb
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\obj\Debug\net5.0\Party dilemma.csproj.AssemblyReference.cache
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\obj\Debug\net5.0\Party dilemma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\obj\Debug\net5.0\Party dilemma.AssemblyInfoInputs.cache
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\obj\Debug\net5.0\Party dilemma.AssemblyInfo.cs
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\obj\Debug\net5.0\Party dilemma.csproj.CoreCompileInputs.cache
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\obj\Debug\net5.0\Party dilemma.dll
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\obj\Debug\net5.0\refint\Party dilemma.dll
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\obj\Debug\net5.0\Party dilemma.pdb
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\obj\Debug\net5.0\Party dilemma.genruntimeconfig.cache
+C:\Users\Pulverminator\OneDrive\Game Developer Studier\Algorithms\Party dilemma\obj\Debug\net5.0\ref\Party dilemma.dll
